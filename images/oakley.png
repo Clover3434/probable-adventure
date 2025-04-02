@@ -1,0 +1,11 @@
+--2025-04-02 18:40:20--  https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oakley_logo.svg/2560px-Oakley_logo.svg.png
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 2620:0:861:ed1a::2:b, 208.80.154.240
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|2620:0:861:ed1a::2:b|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39240 (38K) [image/png]
+Saving to: ‘2560px-Oakley_logo.svg.png’
+
+     0K .......... .......... .......... ........             100%  253K=0.2s
+
+2025-04-02 18:40:21 (253 KB/s) - ‘2560px-Oakley_logo.svg.png’ saved [39240/39240]
+
